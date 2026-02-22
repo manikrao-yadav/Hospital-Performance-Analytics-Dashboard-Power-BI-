@@ -62,7 +62,6 @@ Built an interactive Power BI dashboard to track **revenue, patient flow, depart
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
 
-```bash
 ![Hospital Dashboard](dashboard_screenshot.png)
+
